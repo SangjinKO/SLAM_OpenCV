@@ -7,5 +7,5 @@ Dependencies: os-fuerte-libg2o liblapack-dev libblas-dev freeglut3-dev libqglvie
 *MEMO: Developed and tested in Linux (Ubuntu) with ROS
 
 *Reference:
-Github: https://github.com/tum-vision/lsd_slam
-Web: https://vision.in.tum.de/research/vslam/lsdslam
+- Github: https://github.com/tum-vision/lsd_slam
+- Web: https://vision.in.tum.de/research/vslam/lsdslam
